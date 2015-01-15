@@ -1,0 +1,20 @@
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero\Mochilero\bin\Debug\Mochilero.exe.config
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero\Mochilero\bin\Debug\Mochilero.exe
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero\Mochilero\bin\Debug\Mochilero.pdb
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero\Mochilero\obj\Debug\Mochilero.csprojResolveAssemblyReference.cache
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero\Mochilero\obj\Debug\Mochilero.MainWindow.resources
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero\Mochilero\obj\Debug\Mochilero.Properties.Resources.resources
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero\Mochilero\obj\Debug\Mochilero.csproj.GenerateResource.Cache
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero\Mochilero\obj\Debug\Mochilero.exe
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero\Mochilero\obj\Debug\Mochilero.pdb
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero\Mochilero\obj\Debug\Mochilero.ResultsWindow.resources
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero (M)\Mochilero\bin\Debug\Mochilero.exe.config
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero (M)\Mochilero\obj\Debug\Mochilero.exe
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero (M)\Mochilero\obj\Debug\Mochilero.pdb
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero (M)\Mochilero\obj\Debug\Mochilero.csprojResolveAssemblyReference.cache
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero (M)\Mochilero\obj\Debug\Mochilero.MainWindow.resources
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero (M)\Mochilero\obj\Debug\Mochilero.Properties.Resources.resources
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero (M)\Mochilero\obj\Debug\Mochilero.ResultsWindow.resources
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero (M)\Mochilero\obj\Debug\Mochilero.csproj.GenerateResource.Cache
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero (M)\Mochilero\bin\Debug\Mochilero.exe
+C:\Users\JosePablo\Dropbox\Universidad\UCR\2014 - 1er Semestre\Paradigmas Computacionales\Tarea Programada 4 (AG)\Mochilero (M)\Mochilero\bin\Debug\Mochilero.pdb
